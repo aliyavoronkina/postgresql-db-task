@@ -1,0 +1,16 @@
+# Файлы IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Логи приложения
+*.log
+*.tmp
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Данные базы данных (папка data которая создается Docker)
+data/
